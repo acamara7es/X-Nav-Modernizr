@@ -1,5 +1,5 @@
 var yes = "<span class='supported'>YES</span> "
-var no = "<span class='supported'>NO</span> "
+var no = "<span class='unsupported'>NO</span> "
 
 function adder(id, plusValue) {
 	var element = document.getElementById(id);
