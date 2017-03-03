@@ -1,7 +1,9 @@
 .supported {
     background-color: green;
+    padding: 5px;
 }
 
 .unsupported {
+    padding: 5px;
     background-color: red;
 }
